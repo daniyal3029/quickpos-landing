@@ -6,3 +6,6 @@ This is the landing page for QuickPOS, a point of sale system designed to stream
 * Streamlined sales management
 * Efficient inventory tracking
 * User-friendly interface
+
+## Getting Started
+To get started with QuickPOS, please visit our website or contact our support team for more information.
