@@ -8,4 +8,4 @@ This is the landing page for QuickPOS, a point of sale system designed to stream
 * User-friendly interface
 
 ## Getting Started
-To get started with QuickPOS, please visit our website or contact our support team for more information.
+To get started with QuickPOS, please visit our website at https://quickpos.com or contact our support team at support@quickpos.com for more information.
