@@ -12,3 +12,6 @@ To get started with QuickPOS, please visit our website at https://quickpos.com o
 
 ## Contributing
 We welcome contributions to QuickPOS. If you're interested in contributing, please contact us at support@quickpos.com for more information on how to get started.
+
+## License
+This repository is licensed under the MIT License. See LICENSE for details.
