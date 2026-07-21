@@ -15,3 +15,6 @@ We welcome contributions to QuickPOS. If you're interested in contributing, plea
 
 ## License
 This repository is licensed under the MIT License. See LICENSE for details.
+
+## Badges
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
