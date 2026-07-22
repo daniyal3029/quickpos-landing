@@ -18,3 +18,6 @@ This repository is licensed under the MIT License. See LICENSE for details.
 
 ## Badges
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Description
+QuickPOS is designed to help businesses manage their sales and inventory efficiently. With its user-friendly interface, businesses can easily track sales, manage inventory, and make informed decisions to drive growth.
