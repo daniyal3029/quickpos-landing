@@ -21,3 +21,10 @@ This repository is licensed under the MIT License. See LICENSE for details.
 
 ## Description
 QuickPOS is designed to help businesses manage their sales and inventory efficiently. With its user-friendly interface, businesses can easily track sales, manage inventory, and make informed decisions to drive growth.
+
+## Usage
+Example use cases for QuickPOS include:
+* Retail stores
+* Restaurants
+* E-commerce platforms
+For more information on how to use QuickPOS, please visit our website at https://quickpos.com.
