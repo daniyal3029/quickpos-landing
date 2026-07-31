@@ -28,3 +28,9 @@ Example use cases for QuickPOS include:
 * Restaurants
 * E-commerce platforms
 For more information on how to use QuickPOS, please visit our website at https://quickpos.com.
+
+## Installation
+To install QuickPOS, please follow these steps:
+1. Visit our website at https://quickpos.com
+2. Click on the "Get Started" button
+3. Follow the installation instructions provided
