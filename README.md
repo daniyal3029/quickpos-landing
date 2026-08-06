@@ -34,3 +34,6 @@ To install QuickPOS, please follow these steps:
 1. Visit our website at https://quickpos.com
 2. Click on the "Get Started" button
 3. Follow the installation instructions provided
+
+## Support
+For any questions, concerns, or issues with QuickPOS, please contact our support team at support@quickpos.com. We're here to help.
