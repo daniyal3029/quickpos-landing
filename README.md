@@ -37,3 +37,9 @@ To install QuickPOS, please follow these steps:
 
 ## Support
 For any questions, concerns, or issues with QuickPOS, please contact our support team at support@quickpos.com. We're here to help.
+
+## Contributing Guidelines
+If you are interested in contributing to QuickPOS, please note the following guidelines:
+* Ensure all code changes are thoroughly tested
+* Follow standard professional guidelines for commit messages and API documentation
+* Contact our support team at support@quickpos.com for more information
