@@ -43,3 +43,16 @@ If you are interested in contributing to QuickPOS, please note the following gui
 * Ensure all code changes are thoroughly tested
 * Follow standard professional guidelines for commit messages and API documentation
 * Contact our support team at support@quickpos.com for more information
+
+## Table of Contents
+* [Introduction](#quickpos-landing)
+* [Features](#features)
+* [Getting Started](#getting-started)
+* [Contributing](#contributing)
+* [License](#license)
+* [Badges](#badges)
+* [Description](#description)
+* [Usage](#usage)
+* [Installation](#installation)
+* [Support](#support)
+* [Contributing Guidelines](#contributing-guidelines)
