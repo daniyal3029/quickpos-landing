@@ -56,3 +56,5 @@ If you are interested in contributing to QuickPOS, please note the following gui
 * [Installation](#installation)
 * [Support](#support)
 * [Contributing Guidelines](#contributing-guidelines)
+
+[![Website](https://img.shields.io/badge/Website-https://quickpos.com-blue.svg)](https://quickpos.com)
