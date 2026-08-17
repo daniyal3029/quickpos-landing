@@ -58,3 +58,6 @@ If you are interested in contributing to QuickPOS, please note the following gui
 * [Contributing Guidelines](#contributing-guidelines)
 
 [![Website](https://img.shields.io/badge/Website-https://quickpos.com-blue.svg)](https://quickpos.com)
+
+[![GitHub issues](https://img.shields.io/github/issues/daniyal3029/quickpos-landing?style=flat-square)](https://github.com/daniyal3029/quickpos-landing/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/daniyal3029/quickpos-landing?style=flat-square)](https://github.com/daniyal3029/quickpos-landing/pulls)
